@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Phishing Check",
+  "description": "Base Level Extension",
+  "permissions": ["activeTab"],
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "alert.png"
+  }
+}
